@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rubleen Kaur</h1>
+<h1 align="center">Hi 👋, I'm Rubleen Kaur <br><br><a href="https://rubleen1903.github.io/rubyportfolio/"><img src ="https://user-images.githubusercontent.com/47170879/113906480-ee8c0b80-97f1-11eb-8059-f7113aa94366.png" height="80" width="80" ></img></a>
+</h1>
 
-<img align ="center">![banner](https://user-images.githubusercontent.com/47170879/113885906-db6f4080-97dd-11eb-8f3f-ad70befa5968.png)
+<img src="https://user-images.githubusercontent.com/47170879/113885906-db6f4080-97dd-11eb-8f3f-ad70befa5968.png" align="center">
+
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
