@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rubleen Kaur <br><br><a href="https://rubleen1903.github.io/rubyportfolio/"><img src ="https://user-images.githubusercontent.com/47170879/113906480-ee8c0b80-97f1-11eb-8059-f7113aa94366.png" height="80" width="80" ></img></a>
 </h1>
 
-<img src="https://user-images.githubusercontent.com/47170879/113885906-db6f4080-97dd-11eb-8f3f-ad70befa5968.png" align="center">
-
-
+<br>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<img src="https://user-images.githubusercontent.com/47170879/113885906-db6f4080-97dd-11eb-8f3f-ad70befa5968.png" align="center">
+<br>
+
+
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubleen1903&label=Profile%20views&color=0e75b6&style=flat" alt="rubleen1903" /> </p>
 
@@ -61,8 +65,8 @@
 <br><br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubleen1903&show_icons=true&locale=en&layout=compact" alt="rubleen1903" /></p>
+<br><br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubleen1903&show_icons=true&locale=en&layout=compact" alt="rubleen1903" /></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubleen1903&show_icons=true&locale=en" alt="rubleen1903" /></p>
+<br><br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubleen1903&show_icons=true&locale=en" alt="rubleen1903" /></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubleen1903&" alt="rubleen1903" /></p>
+<br><br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubleen1903&" alt="rubleen1903" /></p>
