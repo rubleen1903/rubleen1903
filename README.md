@@ -42,13 +42,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/rubleen1903" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" color:"white" alt="rubleen1903" height="30" width="40" /></a>
+<a href="https://dev.to/rubleen1903" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" color:"white" alt="rubleen1903" height="30" width="40"  /></a>
 <a href="https://twitter.com/rubleenhanjra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rubleenhanjra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rubleenkaur2201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rubleenkaur2201" height="30" width="40" /></a>
 <a href="https://fb.com/rubleen.kaur.129" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rubleen.kaur.129" height="30" width="40" /></a>
 <a href="https://instagram.com/rubleen_0802" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rubleen_0802" height="30" width="40" /></a>
 <a href="https://dribbble.com/rubleen16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="rubleen16" height="30" width="40" /></a>
-<a href="https://www.behance.net/rubleenkaur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="rubleenkaur" height="30" width="40" /></a>
+<a href="https://www.behance.net/rubleenkaur" target="blank"><img align="center" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="rubleenkaur" height="30" width="40" /></a>
 <a href="https://medium.com/@rubleen16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rubleen16" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/jigsawmindz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jigsawmindz" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rubleen16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rubleen16" height="30" width="40" /></a>
