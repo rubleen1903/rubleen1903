@@ -34,7 +34,9 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tI0YwF-ht-gw-z-LSu2LzvSiXZ259kXS/view?usp=sharing](https://drive.google.com/file/d/1tI0YwF-ht-gw-z-LSu2LzvSiXZ259kXS/view?usp=sharing)
 
-- ⚡ Fun fact **I am a whole time foodie 🍕🍔🍟🌭🥓**
+- ⚡ Fun fact **I am a foodie 🍕🍔🍟🌭🥓**
+
+- 💛 **A short Bio about me !** [Rubleen Kaur](https://discord.bio/p/rubleenkaur)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
