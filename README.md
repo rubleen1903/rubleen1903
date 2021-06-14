@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **rubleen16@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tI0YwF-ht-gw-z-LSu2LzvSiXZ259kXS/view?usp=sharing](https://drive.google.com/file/d/1tI0YwF-ht-gw-z-LSu2LzvSiXZ259kXS/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bOfOaxGsviyPB6vs7Y8z8Go-Fr9Q1_pY/view?usp=sharing)
 
 - ⚡ Fun fact **I am a foodie 🍕🍔🍟🌭🥓**
 
