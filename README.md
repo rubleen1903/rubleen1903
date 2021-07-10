@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/rubleenhanjra" target="blank"><img src="https://img.shields.io/twitter/follow/rubleenhanjra?logo=twitter&style=for-the-badge" alt="rubleenhanjra" /></a> </p>
 
-- 🔭 I’m currently working on **Developing a C++ live wallpaper for desktop**
+- 🔭 I’m currently working as **Cyber Security Intern at Gurugram police**
 
 - 🌱 I’m currently learning **AngularJs**
 
