@@ -40,9 +40,9 @@
 
 ### Blogs posts : 
 <!-- BLOG-POST-LIST:START -->
-- 1. Reverse Linked List Leetcode Solution using Recusrion [Read Here] (https://rubleen16.medium.com/reverse-linked-list-leetcode-recursion-d851fec0a6e0)
-- 2. JavaScript Interview Questions Part 1 - Published at Coding Ninjas [Read Here] (https://www.codingninjas.com/blog/2021/08/25/javascript-interview-questions-part-1/)
-- 3. Valid Mountain array Leetcode Solution [Read Here] (https://rubleen16.medium.com/valid-mountain-array-solution-and-approch-in-java-a940f0912c74)
+- 1. Reverse Linked List Leetcode Solution using Recusrion [Read Here](https://rubleen16.medium.com/reverse-linked-list-leetcode-recursion-d851fec0a6e0)
+- 2. JavaScript Interview Questions Part 1 - Published at Coding Ninjas [Read Here](https://www.codingninjas.com/blog/2021/08/25/javascript-interview-questions-part-1/)
+- 3. Valid Mountain array Leetcode Solution [Read Here](https://rubleen16.medium.com/valid-mountain-array-solution-and-approch-in-java-a940f0912c74)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
