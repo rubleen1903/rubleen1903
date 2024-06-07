@@ -16,13 +16,11 @@
 
 <p align="left"> <a href="https://twitter.com/rubleenhanjra" target="blank"><img src="https://img.shields.io/twitter/follow/rubleenhanjra?logo=twitter&style=for-the-badge" alt="rubleenhanjra" /></a> </p>
 
-- 🔭 I’m currently working as **Technical Blog Writer Intern at Coding Ninjas**
+- 🔭 I’m currently working as **Partner Operations Senior Engineer At Workspan**
 
 - 🌱 I’m currently learning **AngularJs**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 🤝 I’m looking for help with **Contributing to opensource**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rubleen1903](https://github.com/rubleen1903)
 
@@ -32,11 +30,11 @@
 
 - 📫 How to reach me **rubleen16@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/107YAsJmyGSimIN00Mb8LHFDtbMte3Yov/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zSqOVgGyVW58mFsbCBst9Gp3WCadJbIk/view?usp=sharing)
 
 - ⚡ Fun fact **I am a foodie 🍕🍔🍟🌭🥓**
 
-- 💛 **A short Bio about me !** [Rubleen Kaur](https://discord.bio/p/rubleenkaur)
+
 
 ### Blogs posts : 
 <!-- BLOG-POST-LIST:START -->
@@ -50,12 +48,10 @@
 <a href="https://dev.to/rubleen1903" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" color:"white" alt="rubleen1903" height="30" width="40"  /></a>
 <a href="https://twitter.com/rubleenhanjra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rubleenhanjra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rubleenkaur2201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rubleenkaur2201" height="30" width="40" /></a>
-<a href="https://fb.com/rubleen.kaur.129" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rubleen.kaur.129" height="30" width="40" /></a>
-<a href="https://instagram.com/rubleen_0802" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rubleen_0802" height="30" width="40" /></a>
+<a href="https://instagram.com/rubleen_2201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rubleen_0802" height="30" width="40" /></a>
 <a href="https://dribbble.com/rubleen16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="rubleen16" height="30" width="40" /></a>
 <a href="https://www.behance.net/rubleenkaur" target="blank"><img align="center" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="rubleenkaur" height="30" width="40" /></a>
 <a href="https://medium.com/@rubleen16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rubleen16" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jigsawmindz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jigsawmindz" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rubleen16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rubleen16" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rubleen16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rubleen16" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rubleen16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="rubleen16" height="30" width="40" /></a>
